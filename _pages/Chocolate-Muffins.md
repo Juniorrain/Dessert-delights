@@ -2,4 +2,9 @@
 layout: single
 permalink: /Chocolate muffins/
 title: Chocolate Muffins
-author
+author_profile: true
+---
+*ingredients:
+* flour
+*sugar
+*Chocolate chips
