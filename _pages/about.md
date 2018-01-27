@@ -1,3 +1,3 @@
 ---
-layout:single
-permalink: 
+layout: single
+permalink: /
